@@ -1,9 +1,16 @@
 =================
-ESP32 Arduino教程
+Arduino教程
 =================
 
 1.代码和库文件下载
 ===================
+
+.. raw:: html
+
+   <span style="color:red;font-size:24px;">
+   请注意，你需要在下方点击下载课程代码文件以及库文件!
+   </span>
+
 .. toctree::
     :maxdepth: 1
 
@@ -51,9 +58,8 @@ ESP32 Arduino教程
     4.10 运动物体检测
 
 
-5.AI视觉模块结合KE3066小车课程
+5.AI视觉模块结合KE3059小车课程
 ===============================
-本教程是基于Nano开发板对AI视觉模块使用Arduino IDE如何使用进行演示。
 
 .. toctree::
     :maxdepth: 1
