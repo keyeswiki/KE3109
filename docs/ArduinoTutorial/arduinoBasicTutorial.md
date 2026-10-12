@@ -12,7 +12,7 @@ Arduino IDE拥有简洁直观的用户界面，支持语法高亮、自动完成
 
 **特别提醒：本教程采用的 Arduino IDE 版本是 2.3.6 。如果是其他版本的话，不能保证本教程提供的示例代码能编译和上传成功。** 
 
-## 3.3.1 Arduino IDE下载 
+## 3.2.1 Arduino IDE下载 
 
 我们先到Arduino官方的网站：[Software | Arduino](https://www.arduino.cc/en/software/) 下载 Arduino IDE。
 
@@ -24,7 +24,7 @@ Arduino 软件有很多版本，有Windows，Mac，Linux系统的（如下图）
 
 这里我们以Windows系统的为例给大家介绍下载和安装的步骤。Windows系统的也有两个版本，一个版本是安装版：Windows Win 10 or newer(64-bit) ；另一个是下载版：Windows ZIP file，是不用安装，直接下载文件到电脑，解压缩就可以用了。
 
-## 3.2.1 Arduino IDE安装
+## 3.2.2 Arduino IDE安装
 
 1\. 保存从软件页面下载的.exe文件到硬盘驱动器，然后简单地运行该文件。
 

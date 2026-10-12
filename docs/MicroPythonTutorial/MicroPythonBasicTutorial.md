@@ -81,7 +81,7 @@ Thonny应用程序安装支持两种安装方式：
 
 ![1210](./media/thonny-14-1778557051107-14.png)
 
-（7）单击 Inatall 进行安装。
+（7）单击 Install 进行安装。
 
 ![1211](./media/thonny-15-1778557051107-15.png)
 
@@ -258,7 +258,7 @@ D.选中“**MicroPython (ESP32)**”，选中“**Silicon Labs CP210x USB to UA
 
 ![img-20230331154946](./media/img-20230331154946.png)
 
-E.弹出如下对话框，“**Port**”选择“**Silicon Labs CP210x USB to UART Bridge(COM7)**”，单击“**Browse...**”选择之前准备好的microPython固件esp32-20210902-v1.17.bin。检查“Erase flash before installing”和“Flash mode”，然后点击“**安装**”，等待安装完成提示。（<span style="color: rgb(255, 76, 65);">注意：如果安装固件失败，请按住ESP32主板上的Boot键，出现上传进度百分比再松开Boot键。再次点击“**安装**”。</span>)
+E.弹出如下对话框，“**Port**”选择“**Silicon Labs CP210x USB to UART Bridge(COM7)**”，单击“**Browse...**”选择之前准备好的microPython固件esp32-20210902-v1.19.1.bin。检查“Erase flash before installing”和“Flash mode”，然后点击“**安装**”，等待安装完成提示。（<span style="color: rgb(255, 76, 65);">注意：如果安装固件失败，请按住ESP32主板上的Boot键，出现上传进度百分比再松开Boot键。再次点击“**安装**”。</span>)
 
 ![img-20230331144331](./media/img-20230331144331-1778307324983-64.png)
 

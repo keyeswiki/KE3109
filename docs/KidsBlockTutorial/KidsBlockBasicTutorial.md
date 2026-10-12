@@ -96,7 +96,7 @@
 
 ## 2.3.1 安装开发板驱动
 
-1. 安装好KisdBlock软件后，在桌面双击打开![KidsBlock](./media/KidsBlock.png)
+1. 安装好KidsBlock软件后，在桌面双击打开![KidsBlock](./media/KidsBlock.png)
 2. 进入页面后点击右上角的设置按钮
 
 ![Equip-21](./media/Equip-21.png)

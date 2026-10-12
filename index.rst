@@ -1,6 +1,6 @@
 .. toctree::
    :maxdepth: 2
-   :caption: KE3109 智能小车 + AI视觉图卡创客扩展包
+   :caption: Sengo2 AI视觉图卡创客扩展包（3合1小车）
 
    docs/套件介绍
    docs/ArduinoTutorial/arduinoRST

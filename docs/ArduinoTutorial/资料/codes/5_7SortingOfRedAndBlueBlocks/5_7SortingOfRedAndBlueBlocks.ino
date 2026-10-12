@@ -116,8 +116,8 @@ void setup() {
 
   pinMode(ML, OUTPUT);      //设置左电机方向控制引脚为输出
   pinMode(ML_PWM, OUTPUT);  //设置左电机方向控制引脚为输出
-  pinMode(MR, OUTPUT);      //设置左电机方向控制引脚为输出
-  pinMode(MR_PWM, OUTPUT);  //设置左电机方向控制引脚为输出
+  pinMode(MR, OUTPUT);      //设置右电机方向控制引脚为输出
+  pinMode(MR_PWM, OUTPUT);  //设置右电机方向控制引脚为输出
 }
 
 void loop() {

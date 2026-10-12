@@ -25,7 +25,7 @@ SoftwareSerial mySerial(RX_PIN, TX_PIN);  // 创建软串口对象
 #define MR 32
 #define MR_PWM 25
 
-#define BUZZER_PIN 3
+#define BUZZER_PIN 2
 
 int left_speed = 255;
 int right_speed = 255;
@@ -90,8 +90,8 @@ void setup() {
 
   pinMode(ML, OUTPUT);      //设置左电机方向控制引脚为输出
   pinMode(ML_PWM, OUTPUT);  //设置左电机方向控制引脚为输出
-  pinMode(MR, OUTPUT);      //设置左电机方向控制引脚为输出
-  pinMode(MR_PWM, OUTPUT);  //设置左电机方向控制引脚为输出
+  pinMode(MR, OUTPUT);      //设置右电机方向控制引脚为输出
+  pinMode(MR_PWM, OUTPUT);  //设置右电机方向控制引脚为输出
 
   pinMode(BUZZER_PIN, OUTPUT);
 }
